@@ -1,0 +1,54 @@
+.productDiv {
+    width: 180px;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 10px;
+    .image{
+        width: 100%;
+        height: 200px;
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}
+.productPicture {
+    width: 100%;
+    height: 180px; 
+    background-size: cover;
+    background-position: center;
+}
+.productDescription {
+    width: 100%;
+    height: 80px; 
+    background: yellowgreen;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around
+}
+.productCount {
+    input{
+        width: 14px;
+    }
+}
+.productNameCount {
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around;
+}
+.productPriceCart {
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.productCart {
+    background-image: url("../../assets/images/cart.png");
+    width: 35px; 
+    height: 35px;
+    background-size: cover;
+    cursor: pointer;
+}
