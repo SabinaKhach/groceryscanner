@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/groceryscanner/static/css/main.0ddc369f.css",
+    "main.js": "/groceryscanner/static/js/main.9a836d52.js",
+    "static/js/787.261d03d0.chunk.js": "/groceryscanner/static/js/787.261d03d0.chunk.js",
+    "static/media/welchs.png": "/groceryscanner/static/media/welchs.5ac86468981496370e45.png",
+    "static/media/swissmiss.png": "/groceryscanner/static/media/swissmiss.60e12b35124b59aaf900.png",
+    "static/media/Maracuyá.jpg": "/groceryscanner/static/media/Maracuyá.e00891a53bad871c05f8.jpg",
+    "static/media/cookie.png": "/groceryscanner/static/media/cookie.212213d55dea908fb174.png",
+    "static/media/dragon-fruit.webp": "/groceryscanner/static/media/dragon-fruit.adc0116defc791310029.webp",
+    "static/media/takis.jpg": "/groceryscanner/static/media/takis.2f24429c3cf4f8fb379c.jpg",
+    "static/media/cheetos.png": "/groceryscanner/static/media/cheetos.731223680bf78a672997.png",
+    "static/media/doritos.jpg": "/groceryscanner/static/media/doritos.b77a820221c57627c93c.jpg",
+    "static/media/croutons.webp": "/groceryscanner/static/media/croutons.6da515622f1bf943db39.webp",
+    "static/media/background.png": "/groceryscanner/static/media/background.906bb8679e53954926e5.png",
+    "static/media/cookie2.webp": "/groceryscanner/static/media/cookie2.e70cd13ab9b4f8ba5de8.webp",
+    "static/media/cookie1.webp": "/groceryscanner/static/media/cookie1.3f8c3e18e0bf0a85976e.webp",
+    "static/media/logo.png": "/groceryscanner/static/media/logo.c5ffd89912ec544487a9.png",
+    "static/media/cart.png": "/groceryscanner/static/media/cart.eca5ee08f37494f3f691.png",
+    "static/media/ramen.jfif": "/groceryscanner/static/media/ramen.45ab75ce5fc3d9e39cf8.jfif",
+    "index.html": "/groceryscanner/index.html",
+    "main.0ddc369f.css.map": "/groceryscanner/static/css/main.0ddc369f.css.map",
+    "main.9a836d52.js.map": "/groceryscanner/static/js/main.9a836d52.js.map",
+    "787.261d03d0.chunk.js.map": "/groceryscanner/static/js/787.261d03d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ddc369f.css",
+    "static/js/main.9a836d52.js"
+  ]
+}
