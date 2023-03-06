@@ -1,0 +1,21 @@
+.searchDiv{
+    position: fixed;
+    right: 10px;
+    margin-top: 10px;
+}
+.search{
+    background-image: url('../../assets/images/search.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 30px;
+    outline: none;
+    border-radius: 15px;
+    width: 30px;
+    transition: all 0.5s ease;
+    color: transparent;
+    &:focus{
+        width: 150px;
+        padding-left: 35px;
+        color: black;
+    }
+}
